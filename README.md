@@ -1,1 +1,2 @@
-Github Cloud Functions Integration with github webhooks and slack integration. Test4 Completed.
+Github Cloud Functions Integration with github webhooks and slack integration. 
+We are getting the slack notifications
