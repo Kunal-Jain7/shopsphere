@@ -1,1 +1,1 @@
-Github Cloud Functions Integration with github webhooks. Test3 in progress.
+Github Cloud Functions Integration with github webhooks and slack integration. Test3 in progress.
